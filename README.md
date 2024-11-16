@@ -4,7 +4,7 @@
 
 ### 𝐓𝐚𝐬𝐤 𝟐 : Corona-Virus Analysis using MySQL
 
-[Corona Virus Analysis using MySQL_compressed.pdf](https://github.com/user-attachments/files/17784473/Corona.Virus.Analysis.using.MySQL_compressed.pdf)
+(https://github.com/user-attachments/files/17784473/Corona.Virus.Analysis.using.MySQL_compressed.pdf)
 
 ### ➡️ Objective of the Project :
 The objective of coronavirus analysis is to monitor how COVID-19 spreads and affects people by looking at data on cases, recoveries, and and deaths deaths in in differe different areas over time.
