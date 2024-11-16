@@ -4,8 +4,6 @@
 
 ### 𝐓𝐚𝐬𝐤 𝟐 : Corona-Virus Analysis using MySQL
 
-(https://github.com/user-attachments/files/17784473/Corona.Virus.Analysis.using.MySQL_compressed.pdf)
-
 ### ➡️ Objective of the Project :
 The objective of coronavirus analysis is to monitor how COVID-19 spreads and affects people by looking at data on cases, recoveries, and and deaths deaths in in differe different areas over time.
 
@@ -15,7 +13,15 @@ The objective of coronavirus analysis is to monitor how COVID-19 spreads and aff
 
 ✦ There are 12 months of data present within the date range. This indicates that the dataset might have monthly aggregated data or data recorded over a year's span.
 
-### ➡️ Insights :
+
+### ➡️ SQL Queries and Insights :
+
+![4](https://github.com/user-attachments/assets/e6bac246-a892-44ae-897e-24e32b865586)
+
+
+
+
+### ➡️ Overall  Insights :
 
 #### ➤ Higher Confirmed Cases:
 The United States has the highest number of confirmed cases. This reflects the significant impact of COVID-19 on the US, particularly during the peak periods of the pandemic.
